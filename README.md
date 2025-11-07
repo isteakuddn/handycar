@@ -1,4 +1,4 @@
-# Handycar Robot
+# Handycar
 
 This project was developed for the **Workshop on Robotics and Intelligent Systems**, hosted by the **RIoT Research Centre (Independent University, Bangladesh)** and **TEXON**. And this project got 2nd position.
 
